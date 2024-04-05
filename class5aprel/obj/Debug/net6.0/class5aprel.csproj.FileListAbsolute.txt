@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\class5aprel\class5aprel\bin\Debug\net6.0\class5aprel.exe
+C:\Users\Hp\Desktop\class5aprel\class5aprel\bin\Debug\net6.0\class5aprel.deps.json
+C:\Users\Hp\Desktop\class5aprel\class5aprel\bin\Debug\net6.0\class5aprel.runtimeconfig.json
+C:\Users\Hp\Desktop\class5aprel\class5aprel\bin\Debug\net6.0\class5aprel.dll
+C:\Users\Hp\Desktop\class5aprel\class5aprel\bin\Debug\net6.0\class5aprel.pdb
+C:\Users\Hp\Desktop\class5aprel\class5aprel\obj\Debug\net6.0\class5aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\class5aprel\class5aprel\obj\Debug\net6.0\class5aprel.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\class5aprel\class5aprel\obj\Debug\net6.0\class5aprel.AssemblyInfo.cs
+C:\Users\Hp\Desktop\class5aprel\class5aprel\obj\Debug\net6.0\class5aprel.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\class5aprel\class5aprel\obj\Debug\net6.0\class5aprel.dll
+C:\Users\Hp\Desktop\class5aprel\class5aprel\obj\Debug\net6.0\refint\class5aprel.dll
+C:\Users\Hp\Desktop\class5aprel\class5aprel\obj\Debug\net6.0\class5aprel.pdb
+C:\Users\Hp\Desktop\class5aprel\class5aprel\obj\Debug\net6.0\class5aprel.genruntimeconfig.cache
+C:\Users\Hp\Desktop\class5aprel\class5aprel\obj\Debug\net6.0\ref\class5aprel.dll
